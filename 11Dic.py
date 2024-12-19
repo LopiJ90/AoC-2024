@@ -5,8 +5,7 @@ Created on Wed Dec 11 17:15:56 2024
 @author: lopif
 """
 
-data='872027 227 18 9760 0 4 67716 9245696'
-#data='125 11'
+data=
 import pandas as pd
 import copy
 #%%
